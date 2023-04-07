@@ -1,4 +1,5 @@
-## Hostboad
+# Geoloup
 
-Compagnie de Ludovic <br>
-Tous les projets sont sur le profil de [Abstra208](https://github.com/abstra208)
+- 🔭 Merci a gilaxy04 et franck403 de nous supporter
+- 🌱 Franck403 est le propriétaire
+- ⚡ Ont programe HTML, CSS, JS, PYTHON
