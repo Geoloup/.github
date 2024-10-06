@@ -1,8 +1,7 @@
 # Geoloup
 
-- 🔭 Merci a franck403 (gilaxy04) de nous supporter
 - 🌱 Franck403 est le propriétaire
-- ⚡ Ont programe HTML, CSS, JS, PYTHON, LUA (new), MICROPYTHON (new)
+- ⚡ Ont programe HTML (CSS,js), PYTHON, LUA, MICROPYTHON, ELECTRON, NODEJS
 
 --------
 membres:
